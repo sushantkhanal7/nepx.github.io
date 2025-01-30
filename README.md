@@ -1,1 +1,1 @@
-# NepX.github.io
+# nepx.github.io
